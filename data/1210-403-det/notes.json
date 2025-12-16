@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Ambiguous"
+    },
+    {
+      "id": 1,
+      "name": "Long"
+    },
+    {
+      "id": 2,
+      "name": "Short"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

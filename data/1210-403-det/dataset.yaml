@@ -1,0 +1,6 @@
+names:
+  0: target
+nc: 1
+path: data\1210-403-det
+train: images
+val: images

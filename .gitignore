@@ -2,7 +2,7 @@ xy-runs/
 archive/
 
 data/**/*.jpg
-data/**/*.txt
+data/**/labels/**/*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
